@@ -11,8 +11,8 @@ logs
 
 # OS generated files
 .DS_Store
-*.db
-*.sql
+*.db*
+*.sql*
 
 # Temporary files
 *.tmp
